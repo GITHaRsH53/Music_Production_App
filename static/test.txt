@@ -1,0 +1,3 @@
+this is the test and this is the static file. 
+anyone can come and see this file in our url, so keep public files , no sensitive file
+like public css file, js file, public source code.
