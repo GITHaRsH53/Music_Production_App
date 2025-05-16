@@ -1,5 +1,7 @@
 # **Music Production Website**
 
+![Architecture Diagram](https://github.com/GITHaRsH53/Music_Production_App/blob/master/static/Screenshot%202025-05-16%20110642.png)
+
 ## Overview
 
 This is a Django-based web application for music production, where users can upload and share their audio files such as beats and rap tracks. The platform allows users to collaborate and create their own music for fun. The website will be made public once it is fully functional.
